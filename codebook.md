@@ -44,43 +44,43 @@ These signals were used to estimate variables of the feature vector for each pat
 12.	tGravityAcc-std()-X
 13.	tGravityAcc-std()-Y
 14.	tGravityAcc-std()-Z
-*Body acceleration jerk
+* Body acceleration jerk
 15.	tBodyAccJerk-mean()-X
 16.	tBodyAccJerk-mean()-Y
 17.	tBodyAccJerk-mean()-Z
 18.	tBodyAccJerk-std()-X
 19.	tBodyAccJerk-std()-Y
 20.	tBodyAccJerk-std()-Z
-*Body gyro 
+* Body gyro 
 21.	tBodyGyro-mean()-X
 22.	tBodyGyro-mean()-Y
 23.	tBodyGyro-mean()-Z
 24.	tBodyGyro-std()-X
 25.	tBodyGyro-std()-Y
 26.	tBodyGyro-std()-Z
-*Body gyro jerk
+* Body gyro jerk
 27.	tBodyGyroJerk-mean()-X
 28.	tBodyGyroJerk-mean()-Y
 29.	tBodyGyroJerk-mean()-Z
 30.	tBodyGyroJerk-std()-X
 31.	tBodyGyroJerk-std()-Y
 32.	tBodyGyroJerk-std()-Z
-*Body acceleration magnitude
+* Body acceleration magnitude
 33.	tBodyAccMag-mean()
 34.	tBodyAccMag-std()
-*Gravity acceleration magnitude
+* Gravity acceleration magnitude
 35.	tGravityAccMag-mean()
 36.	tGravityAccMag-std()
-*Body acceleration jerk magnitude
+* Body acceleration jerk magnitude
 37.	tBodyAccJerkMag-mean()
 38.	tBodyAccJerkMag-std()
-*Body gyro magnitude
+* Body gyro magnitude
 39.	tBodyGyroMag-mean()
 40.	tBodyGyroMag-std()
-*Body gyro jerk magnitude
+* Body gyro jerk magnitude
 41.	tBodyGyroJerkMag-mean()
 42.	tBodyGyroJerkMag-std()
-*Frequency Body Acceleration 
+* Frequency Body Acceleration 
 43.	fBodyAcc-mean()-X
 44.	fBodyAcc-mean()-Y
 45.	fBodyAcc-mean()-Z
@@ -90,7 +90,7 @@ These signals were used to estimate variables of the feature vector for each pat
 49.	fBodyAcc-meanFreq()-X
 50.	fBodyAcc-meanFreq()-Y
 51.	fBodyAcc-meanFreq()-Z
-*Frequency Body Acceleration Jerk
+* Frequency Body Acceleration Jerk
 52.	fBodyAccJerk-mean()-X
 53.	fBodyAccJerk-mean()-Y
 54.	fBodyAccJerk-mean()-Z
@@ -100,7 +100,7 @@ These signals were used to estimate variables of the feature vector for each pat
 58.	fBodyAccJerk-meanFreq()-X
 59.	fBodyAccJerk-meanFreq()-Y
 60.	fBodyAccJerk-meanFreq()-Z
-*Frequency Body Gyro 
+* Frequency Body Gyro 
 61.	fBodyGyro-mean()-X
 62.	fBodyGyro-mean()-Y
 63.	fBodyGyro-mean()-Z
@@ -110,7 +110,7 @@ These signals were used to estimate variables of the feature vector for each pat
 67.	fBodyGyro-meanFreq()-X
 68.	fBodyGyro-meanFreq()-Y
 69.	fBodyGyro-meanFreq()-Z
-*Frequency magnitudes
+* Frequency magnitudes
 70.	fBodyAccMag-mean()
 71.	fBodyAccMag-std()
 72.	fBodyAccMag-meanFreq()
