@@ -1,9 +1,8 @@
-#Course project: Samsung accelorometer tidy data
+Course project: Samsung accelorometer tidy data
 
-##This is the codebook for the column headings in the samsung_summary.txt file
+This is the codebook for the column headings in the samsung_summary.txt file
 
-
-###this is a summary of the steps taken to create a tidy dataset base on the following dataset 
+this is a summary of the steps taken to create a tidy dataset base on the following dataset 
 ==================================================================
 Human Activity Recognition Using Smartphones Dataset
 Version 1.0
