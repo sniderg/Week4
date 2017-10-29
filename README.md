@@ -1,4 +1,4 @@
-##Course project: Samsung accelorometer tidy data
+###Course project: Samsung accelorometer tidy data
 
 This is the codebook for the column headings in the samsung_summary.txt file
 
